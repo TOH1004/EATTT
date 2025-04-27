@@ -1,4 +1,4 @@
-# 👋 Hi! My name is Teoh Xin Yee!  
+# 👋 Hi! I am Xin Yee!  
 > 🌟 _**[Click here to visit my GitHub](https://github.com/Xinyee610)**_ <br>  
 > 🌟 _Building dreams with data, code, and creativity!_
 
