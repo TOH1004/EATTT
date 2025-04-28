@@ -3,5 +3,5 @@
 > 🌟 *Turning ideas into reality through code and creativity!* 
 
 # 🌐 E-Portfolio
-> 🚀 _**Welcome to my personal [ePortfolio]https://tsthong4.wixsite.com/portfolio-for-myself)**_ <br>
+> 🚀 _**Welcome to my personal [ePortfolio](https://tsthong4.wixsite.com/portfolio-for-myself)**_ <br>
 > 🚀 _Take a look at my journey!!!_
