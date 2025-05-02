@@ -21,3 +21,27 @@ Stay tuned — we’re cooking up something awesome (okay, maybe just a tiny foo
   | [**Teoh Xin Yee**](https://github.com/TOH1004/EATTT/blob/main/Members/TEOH%20XIN%20YEE.md)   | 🧘 Reliable and calm, Xin Yee keeps things organized and makes sure nothing gets missed. |
   | [**Toh Shee Thong**](https://github.com/TOH1004/EATTT/blob/main/Members/TOH%20SHEE%20THONG.md) | 🚀 The one who often says, “Let’s try this!” — loves experimenting and thinking outside the box. |
 </div>
+<br>
+
+## Our Project
+We aims to design a platform to enhance the user experience of a food delivery application, inspired by GrabFood, specifically tailored for the Universiti Teknologi Malaysia (UTM) community!
+
+**Key Usability Issues of Current Platform:**
+- Lack of Detailed Filter for Promotions
+- Lack of Voucher Visibility
+- Ineffective Chatbot Accessibility and Responsiveness in User Support
+- Lack of Dietary Filtering Options <br>
+
+**Our Proposed Solutions:**
+- Detailed Promotion Filter
+- Interface Improvements for Voucher Visibility
+- Enhanced Chatbot Accessibility and Intelligent Support Interface
+- Dedicated dietary filters <br>
+
+**Target Users**
+- UTM Students
+- UTM Staff
+- Restaurant Owners in Arked UTM <br>
+<br>
+
+Explore more in our [Project Proposal!](HCI Project Part 1 - Proposal.pdf)
