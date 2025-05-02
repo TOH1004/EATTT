@@ -44,4 +44,4 @@ We aims to design a platform to enhance the user experience of a **food delivery
 - Restaurant Owners in Arked UTM <br>
 <br>
 
-📌Explore more in our [Project Proposal!](HCI_Project_Part_1_-_Proposal.pdf)
+📌Explore more in our [Project Proposal!](https://github.com/TOH1004/EATTT/blob/0f377700fe16fb4e1ce6834d67e049b876e74f24/HCI%20Project%20Part%201%20-%20Proposal.pdf)
