@@ -23,25 +23,25 @@ Stay tuned — we’re cooking up something awesome (okay, maybe just a tiny foo
 </div>
 <br>
 
-## Our Project
-We aims to design a platform to enhance the user experience of a food delivery application, inspired by GrabFood, specifically tailored for the Universiti Teknologi Malaysia (UTM) community!
+## 🌟Our Project
+We aims to design a platform to enhance the user experience of a **food delivery application**, inspired by GrabFood, specifically tailored for the Universiti Teknologi Malaysia (UTM) community!
 
-**Key Usability Issues of Current Platform:**
+**📋Key Usability Issues of Current Platform:**
 - Lack of Detailed Filter for Promotions
 - Lack of Voucher Visibility
 - Ineffective Chatbot Accessibility and Responsiveness in User Support
-- Lack of Dietary Filtering Options <br>
+- Lack of Dietary Filtering Options
 
-**Our Proposed Solutions:**
+**💡Our Proposed Solutions:**
 - Detailed Promotion Filter
 - Interface Improvements for Voucher Visibility
 - Enhanced Chatbot Accessibility and Intelligent Support Interface
-- Dedicated dietary filters <br>
+- Dedicated dietary filters
 
-**Target Users**
+**👨‍🏫Target Users**
 - UTM Students
 - UTM Staff
 - Restaurant Owners in Arked UTM <br>
 <br>
 
-Explore more in our [Project Proposal!](HCI Project Part 1 - Proposal.pdf)
+📌Explore more in our [Project Proposal!](HCI_Project_Part_1_-_Proposal.pdf)
