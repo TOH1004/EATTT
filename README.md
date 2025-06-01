@@ -24,6 +24,8 @@ Stay tuned — we’re cooking up something awesome (okay, maybe just a tiny foo
 <br>
 
 ## 🌟Our Project
+
+### 🎯 Phase 1 - Project Proposal
 We aims to design a platform to enhance the user experience of a **food delivery application**, inspired by GrabFood, specifically tailored for the Universiti Teknologi Malaysia (UTM) community!
 
 **📋Key Usability Issues of Current Platform:**
