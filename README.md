@@ -95,6 +95,6 @@ To improve usability for both customers and vendors, we propose:
 - ✅ **Stable promotions**: Ensure promoted items are visible and trackable  
 - ✅ **Transparent tracking**: Real-time rider status and detailed delay reasons  
 
-📄 Read more in our [HCI Project Part 2](https://github.com/TOH1004/EATTT/blob/835ede91712348f1a06358c521c131676eab6680/HCI%20Project%20Part%202%20-%20Gathering%20Requirements.pdf) !
+📄 Read more in our [User Analysis and Task Analysis](https://github.com/TOH1004/EATTT/blob/835ede91712348f1a06358c521c131676eab6680/HCI%20Project%20Part%202%20-%20Gathering%20Requirements.pdf) !
 
 ---
