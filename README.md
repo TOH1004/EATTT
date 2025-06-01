@@ -45,3 +45,53 @@ We aims to design a platform to enhance the user experience of a **food delivery
 <br>
 
 📌Explore more in our [Project Proposal!](https://github.com/TOH1004/EATTT/blob/0f377700fe16fb4e1ce6834d67e049b876e74f24/HCI%20Project%20Part%201%20-%20Proposal.pdf)
+
+### 📊 Phase 2 – User Analysis and Task Analysis
+
+As part of the second phase, we conducted persona development, scenario-based analysis, and Hierarchical Task Analysis (HTA) to understand real-world user pain points.
+
+ 🔎 Personas
+
+- Benny (Student): Prioritizes promotions and speed. Struggles with missing voucher info and unclear promotions.  
+- Dr. Aisha (Lecturer): Needs verified halal vegetarian food but faces trouble due to the lack of dietary filters.  
+- Puan Siti (Vendor): Wants to promote her food effectively, but her offers and dietary tags don’t display properly.
+
+📌 Core Tasks Analyzed
+
+1. Order Food  
+   - Manual scrolling to find deals  
+   - No upfront voucher validation  
+   - No combined filters (e.g., halal + vegetarian)
+
+2. Monitor and Manage Order Status  
+   - Delayed or vague updates  
+   - Ineffective support chatbot  
+   - Deeply buried help functions
+
+3. Upload Menu (Vendor)  
+   - No dietary tags like "vegetarian"  
+   - Promotion bugs cause dish visibility loss  
+   - Unclear or ineffective technical support
+
+🧠 Key Findings
+
+- Filtering and promotion tools are inefficient for users in a rush  
+- Help functions and chatbot are inaccessible and unresponsive  
+- Vendors are frustrated by system limitations and bugs  
+- Lack of dietary options directly affects food selection and vendor sales
+
+
+ 🎯 Proposed Design Requirements
+
+To improve usability for both customers and vendors, we propose:
+
+- ✅ Smart filters: Combine tags like halal + vegetarian + under RM10  
+- ✅ Voucher clarity: Preview usable vouchers before checkout  
+- ✅ Persistent and contextual help: Help button available on every screen    
+- ✅ Structured vendor tagging: Add dietary and deal-related tags during upload  
+- ✅ Stable promotions: Ensure promoted items are visible and trackable  
+- ✅ Transparent tracking: Real-time rider status and detailed delay reasons  
+
+---
+
+📄 Read more in our [HCI Project Part 2 ! ] ()
