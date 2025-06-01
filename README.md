@@ -44,7 +44,7 @@ We aims to design a platform to enhance the user experience of a **food delivery
 - Restaurant Owners in Arked UTM <br>
 <br>
 
-📌Explore more in our [Project Proposal!](https://github.com/TOH1004/EATTT/blob/0f377700fe16fb4e1ce6834d67e049b876e74f24/HCI%20Project%20Part%201%20-%20Proposal.pdf)
+📌Explore more in our [Project Proposal](https://github.com/TOH1004/EATTT/blob/0f377700fe16fb4e1ce6834d67e049b876e74f24/HCI%20Project%20Part%201%20-%20Proposal.pdf) !
 
 ### 📊 Phase 2 – User Analysis and Task Analysis
 
@@ -94,4 +94,4 @@ To improve usability for both customers and vendors, we propose:
 
 ---
 
-📄 Read more in our [HCI Project Part 2 ! ] ()
+📄 Read more in our [HCI Project Part 2](https://github.com/TOH1004/EATTT/blob/835ede91712348f1a06358c521c131676eab6680/HCI%20Project%20Part%202%20-%20Gathering%20Requirements.pdf) !
