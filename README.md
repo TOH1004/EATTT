@@ -48,32 +48,32 @@ We aims to design a platform to enhance the user experience of a **food delivery
 
 ### 📊 Phase 2 – User Analysis and Task Analysis
 
-As part of the second phase, we conducted persona development, scenario-based analysis, and Hierarchical Task Analysis (HTA) to understand real-world user pain points.
+As part of the second phase, we conducted **persona development**, **scenario-based analysis**, and **Hierarchical Task Analysis (HTA)** to understand real-world user pain points.
 
- 🔎 Personas
+ **🔎 Personas**
 
-- Benny (Student): Prioritizes promotions and speed. Struggles with missing voucher info and unclear promotions.  
-- Dr. Aisha (Lecturer): Needs verified halal vegetarian food but faces trouble due to the lack of dietary filters.  
-- Puan Siti (Vendor): Wants to promote her food effectively, but her offers and dietary tags don’t display properly.
+- **Benny (Student)**: Prioritizes promotions and speed. Struggles with missing voucher info and unclear promotions.  
+- **Dr. Aisha (Lecturer)**: Needs verified halal vegetarian food but faces trouble due to the lack of dietary filters.  
+- **Puan Siti (Vendor)**: Wants to promote her food effectively, but her offers and dietary tags don’t display properly.
 
-📌 Core Tasks Analyzed
+**📌 Core Tasks Analyzed**
 
-1. Order Food  
+1. **Order Food** 
    - Manual scrolling to find deals  
    - No upfront voucher validation  
    - No combined filters (e.g., halal + vegetarian)
 
-2. Monitor and Manage Order Status  
+2. **Monitor and Manage Order Status**  
    - Delayed or vague updates  
    - Ineffective support chatbot  
    - Deeply buried help functions
 
-3. Upload Menu (Vendor)  
+3. **Upload Menu (Vendor)**  
    - No dietary tags like "vegetarian"  
    - Promotion bugs cause dish visibility loss  
    - Unclear or ineffective technical support
 
-🧠 Key Findings
+🧠 **Key Findings**
 
 - Filtering and promotion tools are inefficient for users in a rush  
 - Help functions and chatbot are inaccessible and unresponsive  
@@ -81,16 +81,16 @@ As part of the second phase, we conducted persona development, scenario-based an
 - Lack of dietary options directly affects food selection and vendor sales
 
 
- 🎯 Proposed Design Requirements
+ 🎯 **Proposed Design Requirements**
 
 To improve usability for both customers and vendors, we propose:
 
-- ✅ Smart filters: Combine tags like halal + vegetarian + under RM10  
-- ✅ Voucher clarity: Preview usable vouchers before checkout  
-- ✅ Persistent and contextual help: Help button available on every screen    
-- ✅ Structured vendor tagging: Add dietary and deal-related tags during upload  
-- ✅ Stable promotions: Ensure promoted items are visible and trackable  
-- ✅ Transparent tracking: Real-time rider status and detailed delay reasons  
+- ✅ **Smart filters**: Combine tags like halal + vegetarian + under RM10  
+- ✅ **Voucher clarity**: Preview usable vouchers before checkout  
+- ✅ **Persistent and contextual help**: Help button available on every screen    
+- ✅ **Structured vendor tagging**: Add dietary and deal-related tags during upload  
+- ✅ **Stable promotions**: Ensure promoted items are visible and trackable  
+- ✅ **Transparent tracking**: Real-time rider status and detailed delay reasons  
 
 ---
 
