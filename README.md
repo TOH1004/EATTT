@@ -104,14 +104,13 @@ To improve usability for both customers and vendors, we propose:
 **📖 Storyboard**
 
 **Goal 1: Order Food**  
-Designed to help users quickly find meals that meet their preferences.  
+![Storyboard Task 1](https://github.com/TOH1004/EATTT/blob/e6dff4aba53debf0ca1f3695dcbbe56d2c63e9ff/assets/task%201%20storyboard.jpg)
 
 **Goal 2: Monitor and Manage Order Status**  
-Users track real-time delivery progress and get support easily.  
+![Storyboard Task 2](https://github.com/TOH1004/EATTT/blob/e6dff4aba53debf0ca1f3695dcbbe56d2c63e9ff/assets/task%202%20storyboard.jpg)
 
 **Goal 3: Upload Menu**  
-Sellers upload menu items with clear dietary labels and promotional options.
-
+![Storyboard Task 3](https://github.com/TOH1004/EATTT/blob/e6dff4aba53debf0ca1f3695dcbbe56d2c63e9ff/assets/task%203%20storyboard.jpg)
 <br>
 
 **🎨 Alternative Designs**
