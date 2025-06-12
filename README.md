@@ -98,3 +98,68 @@ To improve usability for both customers and vendors, we propose:
 📄 Read more in our [User Analysis and Task Analysis](https://github.com/TOH1004/EATTT/blob/835ede91712348f1a06358c521c131676eab6680/HCI%20Project%20Part%202%20-%20Gathering%20Requirements.pdf) !
 
 ---
+
+### Phase 3 - Conceptual & Physical Design
+
+**📖 Storyboard**
+
+**Goal 1: Order Food**  
+Designed to help users quickly find meals that meet their preferences.  
+
+**Goal 2: Monitor and Manage Order Status**  
+Users track real-time delivery progress and get support easily.  
+
+**Goal 3: Upload Menu**  
+Sellers upload menu items with clear dietary labels and promotional options.
+
+<br>
+
+**🎨 Alternative Designs**
+
+Each member proposed an interface version:
+
+- **Alternative Design 1** – Angela Ngu Xin Yi  
+- **Alternative Design 2** – Evelyn Ang  
+- **Alternative Design 3** – Tan Xin Tian  
+- **Alternative Design 4** – Teoh Xin Yee  
+- **Alternative Design 5** – Toh Shee Thong  
+
+<br>
+
+**🗳️ Voting for Best Design**
+
+Team voted to determine the most effective design based on usability, aesthetics, and consistency.
+
+<br>
+
+**🖼️ Wireframes**
+
+**Task 1: Order Food**
+
+- **Shneiderman’s Golden Rules**: Consistency, error prevention, closure.
+- **Gestalt Principles**: Similarity, proximity, figure-ground.
+- **UX Goals**: Efficiency, effectiveness, satisfaction, error prevention.
+
+**Task 2: Monitor and Manage Order Status**
+
+- **Shneiderman’s Rules**: Universal usability, informative feedback, closure.
+- **Gestalt**: Continuity, similarity, proximity.
+- **UX Goals**: Learnability, effectiveness, efficiency.
+
+**Task 3: Upload Menu**
+
+- **Design Focus**: Consistent layout, clear feedback, efficient flow.
+- **Gestalt**: Similarity, proximity, figure-ground, closure.
+- **UX Goals**: Learnability, satisfaction, effectiveness.
+
+<br>
+
+**🧠 Interaction Metaphors**
+
+| Metaphor                     | Description                                                                 |
+|-----------------------------|-----------------------------------------------------------------------------|
+| **Shopping Mall Flyer**     | Homepage’s “Today Offer” mimics a flyer showcasing daily deals.             |
+| **GPS Navigation**          | Filters guide users directly to relevant meals, like a GPS.                 |
+| **Progress Line**           | Delivery stage visualization resembles a trip journey.                      |
+| **Speech Bubble**           | Support chat uses messaging metaphors to feel human and intuitive.          |
+| **Choose Your Serving Platter** | Selecting food type is like picking the right dish for presentation.      |
