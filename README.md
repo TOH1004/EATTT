@@ -104,31 +104,46 @@ To improve usability for both customers and vendors, we propose:
 **📖 Storyboard**
 
 **Goal 1: Order Food**  
-![Storyboard Task 1](https://github.com/TOH1004/EATTT/blob/e6dff4aba53debf0ca1f3695dcbbe56d2c63e9ff/assets/task%201%20storyboard.jpg)
+<img src="https://github.com/TOH1004/EATTT/blob/e6dff4aba53debf0ca1f3695dcbbe56d2c63e9ff/assets/task%201%20storyboard.jpg" alt="Order Food Wireframe" width="500">
 
 **Goal 2: Monitor and Manage Order Status**  
-![Storyboard Task 2](https://github.com/TOH1004/EATTT/blob/e6dff4aba53debf0ca1f3695dcbbe56d2c63e9ff/assets/task%202%20storyboard.jpg)
+<img src="https://github.com/TOH1004/EATTT/blob/e6dff4aba53debf0ca1f3695dcbbe56d2c63e9ff/assets/task%202%20storyboard.jpg" alt="Order Food Wireframe" width="500">
 
 **Goal 3: Upload Menu**  
-![Storyboard Task 3](https://github.com/TOH1004/EATTT/blob/e6dff4aba53debf0ca1f3695dcbbe56d2c63e9ff/assets/task%203%20storyboard.jpg)
+<img src="https://github.com/TOH1004/EATTT/blob/086e55ce6f25f423aef3ad1e92408541993c5284/assets/task%203%20storyboard.jpg" alt="Order Food Wireframe" width="500">
+
 <br>
 
 **🎨 Alternative Designs**
 
 Each member proposed an interface version:
 
-- **Alternative Design 1** – Angela Ngu Xin Yi  
-- **Alternative Design 2** – Evelyn Ang  
-- **Alternative Design 3** – Tan Xin Tian  
-- **Alternative Design 4** – Teoh Xin Yee  
-- **Alternative Design 5** – Toh Shee Thong  
+**Alternative Design 1** – Angela Ngu Xin Yi
+
+<img src="https://github.com/TOH1004/EATTT/blob/086e55ce6f25f423aef3ad1e92408541993c5284/assets/alternative%20design%20angela.jpg" alt="Order Food Wireframe" width="500"> 
+
+**Alternative Design 2** – Evelyn Ang
+
+<img src="https://github.com/TOH1004/EATTT/blob/086e55ce6f25f423aef3ad1e92408541993c5284/assets/alternative%20design%20evelyn.jpg" alt="Order Food Wireframe" width="500">
+
+**Alternative Design 3** – Tan Xin Tian
+
+<img src="https://github.com/TOH1004/EATTT/blob/086e55ce6f25f423aef3ad1e92408541993c5284/assets/alternative%20design%20xintian.jpg" alt="Order Food Wireframe" width="500">    
+
+**Alternative Design 4** – Teoh Xin Yee
+
+<img src="https://github.com/TOH1004/EATTT/blob/086e55ce6f25f423aef3ad1e92408541993c5284/assets/alternative%20design%20xinyee.jpg" alt="Order Food Wireframe" width="500">    
+
+**Alternative Design 5** – Toh Shee Thong
+
+<img src="https://github.com/TOH1004/EATTT/blob/086e55ce6f25f423aef3ad1e92408541993c5284/assets/alternative%20design%20sheethong.jpg" alt="Order Food Wireframe" width="500">    
 
 <br>
 
 **🗳️ Voting for Best Design**
 
 Team voted to determine the most effective design based on usability, aesthetics, and consistency.
-
+<img src="https://github.com/TOH1004/EATTT/blob/a66f4140abd6c6e2af12da536ae534da7f1e7c2c/assets/voting%20for%20best%20design.jpg" alt="Order Food Wireframe" width="500">
 <br>
 
 **🖼️ Wireframes**
