@@ -99,7 +99,7 @@ To improve usability for both customers and vendors, we propose:
 
 ---
 
-### Phase 3 - Conceptual & Physical Design
+### 🖌️Phase 3 - Conceptual & Physical Design
 
 **📖 Storyboard**
 
@@ -144,23 +144,32 @@ Each member proposed an interface version:
 
 Team voted to determine the most effective design based on usability, aesthetics, and consistency.
 <img src="https://github.com/TOH1004/EATTT/blob/a66f4140abd6c6e2af12da536ae534da7f1e7c2c/assets/voting%20for%20best%20design.jpg" alt="Order Food Wireframe" width="500">
+
 <br>
 
 **🖼️ Wireframes**
 
 **Task 1: Order Food**
 
+<img src="https://github.com/TOH1004/EATTT/blob/76bcaa760d0710fae77d1c5d088e4efdc716c554/assets/wireframe%201.jpg" alt="Order Food Wireframe" width="200">
+
 - **Shneiderman’s Golden Rules**: Consistency, error prevention, closure.
 - **Gestalt Principles**: Similarity, proximity, figure-ground.
 - **UX Goals**: Efficiency, effectiveness, satisfaction, error prevention.
+<br>
 
 **Task 2: Monitor and Manage Order Status**
+
+<img src="https://github.com/TOH1004/EATTT/blob/76bcaa760d0710fae77d1c5d088e4efdc716c554/assets/wireframe%202.jpg" alt="Order Food Wireframe" width="200">
 
 - **Shneiderman’s Rules**: Universal usability, informative feedback, closure.
 - **Gestalt**: Continuity, similarity, proximity.
 - **UX Goals**: Learnability, effectiveness, efficiency.
+<br>
 
 **Task 3: Upload Menu**
+
+<img src="https://github.com/TOH1004/EATTT/blob/76bcaa760d0710fae77d1c5d088e4efdc716c554/assets/wireframe%203.jpg" alt="Order Food Wireframe" width="400">
 
 - **Design Focus**: Consistent layout, clear feedback, efficient flow.
 - **Gestalt**: Similarity, proximity, figure-ground, closure.
@@ -177,3 +186,5 @@ Team voted to determine the most effective design based on usability, aesthetics
 | **Progress Line**           | Delivery stage visualization resembles a trip journey.                      |
 | **Speech Bubble**           | Support chat uses messaging metaphors to feel human and intuitive.          |
 | **Choose Your Serving Platter** | Selecting food type is like picking the right dish for presentation.      |
+<br>
+📄 Read more in our [Conceptual & Physical Design]() !
