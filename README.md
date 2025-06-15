@@ -187,4 +187,5 @@ Team voted to determine the most effective design based on usability, aesthetics
 | **Speech Bubble**           | Support chat uses messaging metaphors to feel human and intuitive.          |
 | **Choose Your Serving Platter** | Selecting food type is like picking the right dish for presentation.      |
 <br>
-📄 Read more in our [Conceptual & Physical Design]() !
+
+📄 Read more in our [Conceptual & Physical Design](https://github.com/TOH1004/EATTT/blob/f1c89a810edaa6c0a4ac4731ff40162c59a8f733/HCI%20Project%20Part%203%20-%20Conceptual%20%26%20Physical%20Design.pdf) !
