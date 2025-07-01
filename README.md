@@ -189,3 +189,70 @@ Team voted to determine the most effective design based on usability, aesthetics
 <br>
 
 📄 Read more in our [Conceptual & Physical Design](https://github.com/TOH1004/EATTT/blob/f1c89a810edaa6c0a4ac4731ff40162c59a8f733/HCI%20Project%20Part%203%20-%20Conceptual%20%26%20Physical%20Design.pdf) !
+
+---
+### 🍱Phase 4 - Prototyping and Evaluation
+In this phase, we built a high-fidelity prototype of the **EATTT** food delivery application using **Figma**, targeting the UTM community. We conducted usability testing with 3 users (a student, a lecturer, and a restaurant owner) and evaluated how well the system supports:
+
+1. 🔍 Filtering and ordering food  
+2. 🚚 Monitoring order status and contacting support  
+3. 📤 Uploading menu items and applying promotions  
+
+Testing sessions were recorded using screen-capture tools, and feedback was collected for analysis.
+
+<br>
+
+**🔗 Figma Prototype**
+
+👉 [View our interactive prototype on Figma](https://www.figma.com/proto/mofx6zvhQdMcVxHWRKa1Qf/EATTT?node-id=1078376-4688&p=f&t=kGgtKUHG6lSPfGE7-0&scaling=scale-down&content-scaling=fixed&page-id=77%3A432&starting-point-node-id=1078376%3A4688)
+
+<br>
+
+**🎯 Tasks for User Testing**
+
+| Task | Description | Video Recordings |
+|------|-------------|------------------|
+| **Task 1** | Apply filters such as “Free delivery”, “Halal” + “Vegetarian”, and order food from Lemon Tree | 👤 [Student - Task 1](https://drive.google.com/file/d/1kIik5BtDcBYRnNRgFVNm_vMzGGvLyS45/view?usp=drive_link) <br> 👩‍🏫 [Lecturer - Task 1](https://drive.google.com/file/d/1k-z84wQiRaMQH_1QMYz7C_YdWIYEvh7V/view?usp=drive_link) |
+| **Task 2** | Track order delivery and use chatbot for support | 👤 [Student - Task 2](https://drive.google.com/file/d/1kB80HBB2XmwqP4TKDEH9UJWNXGOary4p/view?usp=drive_link) <br> 👩‍🏫 [Lecturer - Task 2](https://drive.google.com/file/d/1k2rXtgED994lNodQ9uwrwWkVxHK_9dHB/view?usp=drive_link) <br> 🍴 [Restaurant Owner - Task 2](https://drive.google.com/file/d/1lNB01_rfl4s1vr3UUL1UV470LS2-xWYh/view?usp=drivesdk) |
+| **Task 3** | Upload a new menu item and apply promotions | 🍴 [Restaurant Owner - Task 3](https://drive.google.com/file/d/1kJMXOlv3ebxv1pB1k3ioCX5ybgq6SDYq/view?pli=1) |
+
+<br>
+
+**🔍 Key Observations & Issues**
+
+**🔹 Task 1: Filtering & Ordering**
+- ✅ Users liked dietary filters and voucher preview
+- ⚠️ Confusing filter icon (suggest using funnel icon)
+- ⚠️ Small "Add" button in menu (hard to tap)
+
+**🔹 Task 2: Delivery Tracking & Chatbot**
+- ✅ Chatbot button is easy to access
+- ⚠️ No auto confirmation for vouchers (suggest pop-up)
+- ⚠️ AI chatbot only gives auto-replies (suggest hybrid with human support)
+- ⚠️ No clear cue that order box is clickable for tracking
+
+**🔹 Task 3: Menu Upload & Promotion**
+- ✅ Promotion page with "Select All" is user-friendly
+- ⚠️ Type selection buttons too small (not touch-friendly)
+
+<br>
+
+**🧠 Summary of Usability Recommendations**
+
+| Issue | Recommendation |
+|-------|----------------|
+| 🔘 Icon misuse | Replace "filter" icon with funnel symbol and label |
+| ➕ Button size | Increase "Add" and type selection buttons to at least 44x44px |
+| 📦 Voucher | Auto popup when compensation is given |
+| 💬 Chatbot | Add hybrid option to escalate to live agent |
+| 🚚 Tracking cue | Add tooltip or icon to show that order box is interactive (e.g., “Tap here to track your rider”) or include a map pin with arrow to indicate interactivity |
+<br>
+
+**✅ Conclusion**
+
+Through user testing and direct observation, we identified several usability improvements. The prototype successfully supported the three main tasks, but refinements in icon usage, touch targets, and chatbot interaction are needed to enhance the overall user experience for the UTM community.
+
+> _“Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs_
+
+<br>
+📄 Read more in our [Prototyping and Evaluation](https://github.com/TOH1004/EATTT/blob/f1c89a810edaa6c0a4ac4731ff40162c59a8f733/HCI%20Project%20Part%203%20-%20Conceptual%20%26%20Physical%20Design.pdf) !
