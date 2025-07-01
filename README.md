@@ -216,9 +216,9 @@ Testing sessions were recorded using screen-capture tools, and feedback was coll
 
 | Task | Description | Video Recordings |
 |------|-------------|------------------|
-| **Task 1** | Apply filters such as “Free delivery”, “Halal” + “Vegetarian”, and order food from Lemon Tree | 👤 [Student - Task 1](https://drive.google.com/file/d/1kIik5BtDcBYRnNRgFVNm_vMzGGvLyS45/view?usp=drive_link) <br> 👩‍🏫 [Lecturer - Task 1](https://drive.google.com/file/d/1k-z84wQiRaMQH_1QMYz7C_YdWIYEvh7V/view?usp=drive_link) |
-| **Task 2** | Track order delivery and use chatbot for support | 👤 [Student - Task 2](https://drive.google.com/file/d/1kB80HBB2XmwqP4TKDEH9UJWNXGOary4p/view?usp=drive_link) <br> 👩‍🏫 [Lecturer - Task 2](https://drive.google.com/file/d/1k2rXtgED994lNodQ9uwrwWkVxHK_9dHB/view?usp=drive_link) <br> 🍴 [Restaurant Owner - Task 2](https://drive.google.com/file/d/1lNB01_rfl4s1vr3UUL1UV470LS2-xWYh/view?usp=drivesdk) |
-| **Task 3** | Upload a new menu item and apply promotions | 🍴 [Restaurant Owner - Task 3](https://drive.google.com/file/d/1kJMXOlv3ebxv1pB1k3ioCX5ybgq6SDYq/view?pli=1) |
+| **Task 1** | Apply filters such as “Free delivery”, “Halal” + “Vegetarian”, and order food from Lemon Tree | 👤 [Student - Task 1](https://youtu.be/vRmejKEfYhM) <br> 👩‍🏫 [Lecturer - Task 1](https://youtu.be/mz33b97GTRo) |
+| **Task 2** | Track order delivery and use chatbot for support | 👤 [Student - Task 2](https://youtu.be/rDMkrd6YoLo) <br> 👩‍🏫 [Lecturer - Task 2](https://youtu.be/L8pvUE6TpNA) <br> 🍴 [Restaurant Owner - Task 2](https://youtu.be/ra67HW14xEM) |
+| **Task 3** | Upload a new menu item and apply promotions | 🍴 [Restaurant Owner - Task 3](https://youtu.be/1MHKXVQUyuc) |
 
 <br>
 
