@@ -1,3 +1,7 @@
+> 📢 **Update Notice (1 July 2025):**  
+> We've updated our project **Phase 4** here !  
+
+
 ## 👩‍💻 Meet Team EATTT
 
 We are **EATTT**, a dynamic team of five tech enthusiasts: **E**velyn, **A**ngela, **T**an Xin Tian, **T**eoh Xin Yee, and **T**oh Shee Thong. Our team name is a unique acronym made by combining the **first letters of our names**, representing the spirit of unity, creativity, and collaboration.
