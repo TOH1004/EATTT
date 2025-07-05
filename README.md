@@ -199,7 +199,14 @@ Team voted to determine the most effective design based on usability, aesthetics
 ### 🍱Phase 4 - Prototyping and Evaluation
 In Project Part 4, we will conduct prototyping and evaluation of our proposed system. We will be designing a high fidelity prototype that is able to handle all three tasks.
 
-The prototyping and evaluation phase of our food delivery application, **EATTT**, was conducted on three different timelines in campus UTM. The prototype was developed using Figma to create high-fidelity interactive mockups. User testing was conducted on a laptop to simulate real-world interaction for the app’s intended platform. Test sessions were recorded using screen-recording software such as OBS Studio to document user interactions and verbal feedback.
+The prototyping and evaluation phase of our food delivery application, EATTT, was conducted on three different timelines in campus UTM. The prototype was developed using Figma to create high-fidelity interactive mockups. User testing was conducted on a laptop to simulate real-world interaction for the app’s intended platform. For evaluation, we interviewed a total of 3 users in order to discover if there is any weakness and strengths of our prototype. Test sessions were recorded using screen-recording software such as OBS Studio to document user interactions and verbal feedback.
+
+To ensure thorough evaluation, each test session was assigned to a dedicated team member:
+- User 1 was tested by Toh Shee Thong
+- User 2 was observed by Evelyn Ang
+- User 3 was evaluated by Teoh Xin Yee
+
+<br>
 
 The testing focused on three core tasks: 
 1. 🔍 Ordering food with dietary filters
@@ -212,12 +219,13 @@ These tasks were selected to address user pain points that identified earlier, s
 <br>
 
 ### 🔗 Figma Prototype
+We have incorporated feedback and suggestions from Group LCSquare, focusing only on the interface improvements since the functional changes were out of scope for this project.
 
 👉 [View our interactive prototype on Figma](https://www.figma.com/proto/mofx6zvhQdMcVxHWRKa1Qf/EATTT?node-id=1078376-4688&p=f&t=kGgtKUHG6lSPfGE7-0&scaling=scale-down&content-scaling=fixed&page-id=77%3A432&starting-point-node-id=1078376%3A4688)
 
 <br>
 
-### Breifing Notes 
+### Breifing Notes - prepared by Xin Yee
 This application “EATTT” is a food delivery system designed specifically for the Universiti Teknologi Malaysia (UTM) community, including students, staff, and food vendors. Its main purpose is to help users easily order meals that suit their preferences and dietary needs, track and manage their orders in real-time, and allow vendors to upload and promote their menus effectively. The system addresses common issues found in existing delivery platforms, such as unclear food labeling, limited filtering options (e.g., no halal + vegetarian combo), hidden vouchers only shown at checkout, poor delivery tracking, and unhelpful support chatbots. For vendors, the app also resolves issues like missing dietary tags and disappearing promotions. During this test, you’ll try out a few realistic tasks based on common user scenarios. We’re not testing you—we are testing the design. Please feel free to think aloud and give honest feedback. Your input is crucial for helping us improve the user experience.
 
 Task 1: Select filter “Free delivery” or tag “Halal” + “Vegetarian”, then order 1 potato wedges from Lemon Tree store.
@@ -228,17 +236,17 @@ Task 3: Upload menu and apply promotion for the menu.
 
 <br>
 
-### 🎯 Tasks for User Testing
+### 🎯 Testing with Users
 
 | Task | Description | Video Recordings |
 |------|-------------|------------------|
-| **Task 1** | Apply filters such as “Free delivery”, “Halal” + “Vegetarian”, and order food from Lemon Tree | 👤 [Student - Task 1](https://youtu.be/vRmejKEfYhM) <br> 👩‍🏫 [Lecturer - Task 1](https://youtu.be/mz33b97GTRo) |
-| **Task 2** | Track order delivery and use chatbot for support | 👤 [Student - Task 2](https://youtu.be/rDMkrd6YoLo) <br> 👩‍🏫 [Lecturer - Task 2](https://youtu.be/L8pvUE6TpNA) <br> 🍴 [Restaurant Owner - Task 2](https://youtu.be/ra67HW14xEM) |
-| **Task 3** | Upload a new menu item and apply promotions | 🍴 [Restaurant Owner - Task 3](https://youtu.be/1MHKXVQUyuc) |
+| **Task 1** | Apply filters such as “Free delivery”, “Halal” + “Vegetarian”, and order food from Lemon Tree | 👤 [Student(User 1) - Task 1](https://youtu.be/vRmejKEfYhM) <br> 👩‍🏫 [Lecturer(User 2) - Task 1](https://youtu.be/mz33b97GTRo) |
+| **Task 2** | Track order delivery and use chatbot for support | 👤 [Student(User 1) - Task 2](https://youtu.be/rDMkrd6YoLo) <br> 👩‍🏫 [Lecturer(User 2) - Task 2](https://youtu.be/L8pvUE6TpNA) <br> 🍴 [Restaurant Owner(User 3) - Task 2](https://youtu.be/ra67HW14xEM) |
+| **Task 3** | Upload a new menu item and apply promotions | 🍴 [Restaurant Owner(User 3) - Task 3](https://youtu.be/1MHKXVQUyuc) |
 
 <br>
 
-### 🔍 Observations & Issues
+### 🔍 Observations & Issues - prepared by Angela, Evelyn, Xin Tian
 
 **🔹 Task 1: Filter Selection and Food Ordering**
 
@@ -341,7 +349,7 @@ Task 3: Upload menu and apply promotion for the menu.
 
 <br>
 
-### 🧠 Findings
+### 🧠 Findings  - prepared by Xin Yee, Shee Thong
 **🔹 Task 1: Filter Selection and Food Ordering** 
 
 **1️⃣ User 1** <br>
