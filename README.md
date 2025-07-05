@@ -1,5 +1,6 @@
-> 📢 **Update Notice (1 July 2025):**  
-> We've updated our project **Phase 4** here !  
+> 📢 **Update Notice (5 July 2025):**  
+> We've updated our project **Phase 4** here !
+> You may see the details in the report also!
 
 
 ## 👩‍💻 Meet Team EATTT
@@ -196,23 +197,38 @@ Team voted to determine the most effective design based on usability, aesthetics
 
 ---
 ### 🍱Phase 4 - Prototyping and Evaluation
-In this phase, we built a high-fidelity prototype of the **EATTT** food delivery application using **Figma**, targeting the UTM community. We conducted usability testing with 3 users (a student, a lecturer, and a restaurant owner) and evaluated how well the system supports:
+In Project Part 4, we will conduct prototyping and evaluation of our proposed system. We will be designing a high fidelity prototype that is able to handle all three tasks.
 
-1. 🔍 Filtering and ordering food  
-2. 🚚 Monitoring order status and contacting support  
-3. 📤 Uploading menu items and applying promotions  
+The prototyping and evaluation phase of our food delivery application, **EATTT**, was conducted on three different timelines in campus UTM. The prototype was developed using Figma to create high-fidelity interactive mockups. User testing was conducted on a laptop to simulate real-world interaction for the app’s intended platform. Test sessions were recorded using screen-recording software such as OBS Studio to document user interactions and verbal feedback.
 
-Testing sessions were recorded using screen-capture tools, and feedback was collected for analysis.
+The testing focused on three core tasks: 
+1. 🔍 Ordering food with dietary filters
+2. 🚚 Monitoring order status in real-time
+3. 📤 Uploading new restaurant menu
+
+These tasks were selected to address user pain points that identified earlier, such as lack of detailed filter for promotions, lack of transparency in delivery tracking and lack of dietary filtering options. For evaluation, we interviewed a total of 3 users in order to discover if there is any weakness and strengths of our prototype.
+
 
 <br>
 
-**🔗 Figma Prototype**
+### 🔗 Figma Prototype
 
 👉 [View our interactive prototype on Figma](https://www.figma.com/proto/mofx6zvhQdMcVxHWRKa1Qf/EATTT?node-id=1078376-4688&p=f&t=kGgtKUHG6lSPfGE7-0&scaling=scale-down&content-scaling=fixed&page-id=77%3A432&starting-point-node-id=1078376%3A4688)
 
 <br>
 
-**🎯 Tasks for User Testing**
+### Breifing Notes 
+This application “EATTT” is a food delivery system designed specifically for the Universiti Teknologi Malaysia (UTM) community, including students, staff, and food vendors. Its main purpose is to help users easily order meals that suit their preferences and dietary needs, track and manage their orders in real-time, and allow vendors to upload and promote their menus effectively. The system addresses common issues found in existing delivery platforms, such as unclear food labeling, limited filtering options (e.g., no halal + vegetarian combo), hidden vouchers only shown at checkout, poor delivery tracking, and unhelpful support chatbots. For vendors, the app also resolves issues like missing dietary tags and disappearing promotions. During this test, you’ll try out a few realistic tasks based on common user scenarios. We’re not testing you—we are testing the design. Please feel free to think aloud and give honest feedback. Your input is crucial for helping us improve the user experience.
+
+Task 1: Select filter “Free delivery” or tag “Halal” + “Vegetarian”, then order 1 potato wedges from Lemon Tree store.
+
+Task 2: Track the delivery of the order and access to the chatbot if faced any problems.
+
+Task 3: Upload menu and apply promotion for the menu.
+
+<br>
+
+### 🎯 Tasks for User Testing
 
 | Task | Description | Video Recordings |
 |------|-------------|------------------|
@@ -222,41 +238,163 @@ Testing sessions were recorded using screen-capture tools, and feedback was coll
 
 <br>
 
-**🔍 Key Observations & Issues**
+### 🔍 Observations & Issues
 
-**🔹 Task 1: Filtering & Ordering**
-- ✅ Users liked dietary filters and voucher preview
-- ⚠️ Confusing filter icon (suggest using funnel icon)
-- ⚠️ Small "Add" button in menu (hard to tap)
+**🔹 Task 1: Filter Selection and Food Ordering**
 
-**🔹 Task 2: Delivery Tracking & Chatbot**
-- ✅ Chatbot button is easy to access
-- ⚠️ No auto confirmation for vouchers (suggest pop-up)
-- ⚠️ AI chatbot only gives auto-replies (suggest hybrid with human support)
-- ⚠️ No clear cue that order box is clickable for tracking
+**1️⃣ User 1**
+1. User 1 understood the task clearly.
+2. User logged in to the EATTT.
+3. User entered the homepage of EATTT and browsed the menu.
+4. User selected the filter “Free delivery”.
+5. User decided to order potato wedges from Lemon Tree.
+6. User applied for a voucher “Free delivery” and chose to pay by cash.
+7. User pressed the button “Place Order”.
+8. User completed the task.
+   
+✅ The user appreciated the voucher system which helps to view the available voucher before proceeding to the order and checkout page. 
 
-**🔹 Task 3: Menu Upload & Promotion**
-- ✅ Promotion page with "Select All" is user-friendly
-- ⚠️ Type selection buttons too small (not touch-friendly)
+⚠️However, the user pointed out that the filter icon used is confusing since it is always used for the main menu instead of filtering. The user suggested improving the icons by changing to a funnel symbol which is commonly used for filtering.
 
 <br>
 
-**🧠 Summary of Usability Recommendations**
+**2️⃣ User 2**
+1. User received the task and understood the requirements.
+2. User logged in to the EATTT.
+3. User entered the EATTT homepage and browsed the menu to decide what to order.
+4. User selected the both tags “Halal” and “Vegetarian” to filter suitable food options.
+5. User decided to order a dish of potato wedges from Lemon Tree store.
+6. User applied the “Free delivery” voucher and chose to pay by cash.
+7. User completed the task.
+   
+✅The user complimented the homepage interface which is clean and easy to navigate. She especially liked the filter “Non-Spicy” since she had not encountered it in other apps and found it particularly useful. 
 
-| Issue | Recommendation |
-|-------|----------------|
-| 🔘 Icon misuse | Replace "filter" icon with funnel symbol and label |
-| ➕ Button size | Increase "Add" and type selection buttons to at least 44x44px |
-| 📦 Voucher | Auto popup when compensation is given |
-| 💬 Chatbot | Add hybrid option to escalate to live agent |
-| 🚚 Tracking cue | Add tooltip or icon to show that order box is interactive (e.g., “Tap here to track your rider”) or include a map pin with arrow to indicate interactivity |
+⚠️However, she expressed a desire for the improvement of the “add” button in the restaurant main menu page. She pointed out that the button is too small and  easy to miss. The user suggested that it would be more helpful if the size of the button is increased and enhanced with a more obvious colour.
+
 <br>
 
-**✅ Conclusion**
+**🔹 Task 2: Track the Delivery & Access to the Chatbot**
+
+**1️⃣ User 1**
+1. User understood the task clearly.
+2. User placed the order successfully.
+3. User entered the live rider tracking page and identified a traffic jam delay.
+4. User contacted the driver through in-app call features to confirm the delay.
+5. User clicked the chatbot to get customer service support.
+6. User applied for a compensation voucher.
+7. User pressed the button “Voucher” to confirm the voucher was received.
+8. User completed the task.
+   
+✅The user commented that the tracking interface was clear and easy to navigate, allowing for effortless use. The persistent chatbot button in the bottom-right corner enabled instant access to support when needed. 
+
+⚠️However, he also suggested that we could add an automatic pop-up confirmation message when the compensation voucher is received successfully so that the user no need to manually check for it.
+
+<br>
+
+**2️⃣ User 2**
+1. User understood the task clearly.
+2. User placed order successfully
+3. User entered the live rider tracking page and identified a traffic jam delay.
+4. User contacted the driver through in-app call features to confirm the delay.
+5. User accessed the chatbot to request customer service support.
+6. User applied for a compensation voucher due to delivery delay.
+7. User pressed “Order Received” then went to check the history order.
+8. User clicked into the profile page and entered the “Voucher” page to confirm that the voucher was received.
+9. User completed the task.
+    
+✅The user appreciated the intuitive layout of the tracking interface and the straightforward navigation. The ever-present chatbot button in the bottom-right corner allowed immediate access to support when needed. 
+
+⚠️However, she also suggested that the AI chatbot could be improved. It would be more helpful if there is a real person available to respond and reply to the questions instead of just an automated bot.
+
+<br> 
+
+**3️⃣ User 3**
+1. User understood the task given clearly.
+2. User entered the EATTT homepage and accessed the “Activity” page to check the customer order.
+3. User entered the live rider tracking page and identified that there is a delay due to the traffic jam.
+4. User contacted the driver through in-app message features to confirm the reason for delay.
+5. User accessed the chatbot to know the sales of the day.
+6. User completed the task.
+
+✅The user was attracted by the activity interface due to its layout and the straightforward navigation. The chatbot button in the bottom-right corner allows the user to immediately access the chatbot so he can know the sales. 
+
+⚠️Nevertheless, he pointed out a usability issue regarding the lack of clear guidance for certain interactive elements. Specifically, there was no visual cue or instruction indicating that tapping the order box would lead to real-time tracking or chatbot access. While this was not a barrier for him personally, he acknowledged that first-time users might overlook this function.
+
+<br>
+
+**🔹 Task 3: Upload Menu & Apply Promotion**
+
+**3️⃣ User 3**
+1. User received the task and understood the requirements clearly.
+2. User logged in to the EATTT.
+3. User entered the EATTT homepage and accessed the “Menu” page to upload the menu.
+4. User decided to upload Aglio Olio.
+5. User selected the type of food as “Halal” and “Western”.
+6. User edited the promotion and chose “Free Delivery” which would be applied from 10 June 2025 to 23 July 2025 as the promotion of Aglio Olio.
+7. User accessed the homepage again and entered the “Promotion” page.
+8. User chose the “Free Delivery” promotion for Aglio Olio.
+9. User completed the task.
+   
+✅He was impressed by the “Promotion” page as he could apply the promotion for all food with just only one button “Select All”. 
+
+⚠️Nonetheless, the user gave feedback that the button for the type of food section is too small and can be adjusted larger so it would be easier to click the button.
+
+<br>
+
+### 🧠 Findings
+**🔹 Task 1: Filter Selection and Food Ordering** 
+
+**1️⃣ User 1** <br>
+The usability issue identified in the interface is that the filter button located  at the main page is not immediately recognizable to users due to its use of a fries menu icon. It is typically associated with a menu rather than a filtering function. This lack of clarity can lead to user confusion and missed functionality, as users may overlook the option to filter food offers or categories. 
+
+To resolve this issue, it is recommended to replace the fries icon with a more intuitive filter icon, such as a funnel symbol, which users commonly associate with filtering. Additionally, adding a label like “Filter” can make its purpose clear. This improvement would support better discoverability and improve the overall user experience by making key functions easier to access.
+
+<br>
+
+**2️⃣ User 2** <br>
+The usability issue identified in the interface is at the restaurant main menu page. The "add" button, represented by a small blue plus icon next to each food item, appears too small and lacks visual emphasis. This can make it difficult for users, especially those using smaller devices or with limited dexterity. For this reason, they might not accurately tap the button, potentially leading to missed selections or frustration.
+
+To improve usability, it is recommended to increase the size of the button to meet standard touch target guidelines and enhance its visibility with a more prominent color or background. As a result, it can improve accessibility and encourage smoother interactions with the app.
+
+<br>
+
+**🔹 Task 2: Track the Delivery & Access to the Chatbot**
+
+**1️⃣ User 1** <br>
+The usability problem identified is users have to check manually if they received their compensation voucher. This extra step causes some users to not even realize the voucher has been issued, making them miss the benefits. Therefore, a more seamless experience is needed to ensure users are immediately aware of their compensation without having to go looking for it.
+
+To resolve this issue, it is recommended to add an automatic pop-up confirmation that appears as soon as the voucher is successfully credited. This allows the user to get instant feedback without needing to manually verify and reduce frustration.User can click the “check for details” button to check for the details of this voucher such as expiration date and terms and condition.  
+
+<br>
+
+**2️⃣ User 2** <br>
+The usability problem identified is related to the AI chatbot, which the user found that AI chatbot only provides automated responses. The user expressed a preference for real-time support from a human agent, especially when facing more complex or personalized queries. This indicates that while the chatbot serves basic functions, it may not fully meet the support expectations of users who require more dynamic interaction.
+
+To solve this problem, a hybrid chatbot system will be introduced which includes the option to switch the conversations to a live customer support agent while needed. This allows the chatbot to handle common or repetitive questions and give users the opportunity to connect with a human for more complex concerns.
+
+<br>
+
+**3️⃣ User 3** <br>
+The usability issue observed in the order tracking interface for the restaurant owner is the lack of clear instructions or navigation cues to inform merchants that they can tap on the order box to track the rider’s location and access to the chatbot. For first-time users especially, this functionality may not be immediately obvious, leading to confusion or missed interactions. 
+
+To address this, it is recommended to include a brief guiding text such as “Details” and incorporate an arrow icon alongside to indicate interactivity. This enhancement would help users intuitively understand how to access real-time delivery tracking, improving the overall user experience.
+
+<br>
+
+**🔹 Task 3: Upload Menu & Apply Promotion**
+
+**3️⃣ User 3** <br>
+The usability problem identified during the observation is that the buttons in the “Type of Food” section are too small, making it difficult for users to click or tap accurately, especially on mobile devices or for users with accessibility needs. This can lead to frustration and decreased efficiency when interacting with the system. 
+
+To nip this problem, it is recommended to increase the button size. According to Apple Human Interface Guidelines, a button needs a hit region of at least 44x44 pixels to ensure that people can select it easily(Figure 6.3.1.1). Moreover, integrating clear visual feedback such as color changes when hover or border highlights when selected can significantly improve the user experience by providing the immediate confirmation that an action has been successfully performed.
+
+
+
+### ✅ Conclusion
 
 Through user testing and direct observation, we identified several usability improvements. The prototype successfully supported the three main tasks, but refinements in icon usage, touch targets, and chatbot interaction are needed to enhance the overall user experience for the UTM community.
 
 > _“Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs_
 
 <br>
-📄 Read more in our [Prototyping and Evaluation](https://github.com/TOH1004/EATTT/blob/f1c89a810edaa6c0a4ac4731ff40162c59a8f733/HCI%20Project%20Part%203%20-%20Conceptual%20%26%20Physical%20Design.pdf) !
+📄 Read more details in our [Prototyping and Evaluation](https://github.com/TOH1004/EATTT/blob/f1c89a810edaa6c0a4ac4731ff40162c59a8f733/HCI%20Project%20Part%203%20-%20Conceptual%20%26%20Physical%20Design.pdf) !
