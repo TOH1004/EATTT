@@ -225,7 +225,7 @@ We have incorporated feedback and suggestions from Group LCSquare, focusing only
 
 <br>
 
-### Breifing Notes - prepared by Xin Yee
+### 🔖 Breifing Notes - prepared by Xin Yee
 This application “EATTT” is a food delivery system designed specifically for the Universiti Teknologi Malaysia (UTM) community, including students, staff, and food vendors. Its main purpose is to help users easily order meals that suit their preferences and dietary needs, track and manage their orders in real-time, and allow vendors to upload and promote their menus effectively. The system addresses common issues found in existing delivery platforms, such as unclear food labeling, limited filtering options (e.g., no halal + vegetarian combo), hidden vouchers only shown at checkout, poor delivery tracking, and unhelpful support chatbots. For vendors, the app also resolves issues like missing dietary tags and disappearing promotions. During this test, you’ll try out a few realistic tasks based on common user scenarios. We’re not testing you—we are testing the design. Please feel free to think aloud and give honest feedback. Your input is crucial for helping us improve the user experience.
 
 Task 1: Select filter “Free delivery” or tag “Halal” + “Vegetarian”, then order 1 potato wedges from Lemon Tree store.
@@ -394,7 +394,7 @@ To address this, it is recommended to include a brief guiding text such as “De
 **3️⃣ User 3** <br>
 The usability problem identified during the observation is that the buttons in the “Type of Food” section are too small, making it difficult for users to click or tap accurately, especially on mobile devices or for users with accessibility needs. This can lead to frustration and decreased efficiency when interacting with the system. 
 
-To nip this problem, it is recommended to increase the button size. According to Apple Human Interface Guidelines, a button needs a hit region of at least 44x44 pixels to ensure that people can select it easily(Figure 6.3.1.1). Moreover, integrating clear visual feedback such as color changes when hover or border highlights when selected can significantly improve the user experience by providing the immediate confirmation that an action has been successfully performed.
+To nip this problem, it is recommended to increase the button size. According to Apple Human Interface Guidelines, a button needs a hit region of at least 44x44 pixels to ensure that people can select it easily. Moreover, integrating clear visual feedback such as color changes when hover or border highlights when selected can significantly improve the user experience by providing the immediate confirmation that an action has been successfully performed.
 
 
 
