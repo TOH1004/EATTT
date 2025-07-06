@@ -1,5 +1,5 @@
-> 📢 **Update Notice (5 July 2025):**  
-> We've updated our project **Phase 4** here !
+> 📢 **Update Notice (6 July 2025):**  
+> We've updated our project **Phase 4** here ! <br>
 > You may see the details in the report also!
 
 
@@ -405,4 +405,4 @@ Through user testing and direct observation, we identified several usability imp
 > _“Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs_
 
 <br>
-📄 Read more details in our [Prototyping and Evaluation](https://github.com/TOH1004/EATTT/blob/f1c89a810edaa6c0a4ac4731ff40162c59a8f733/HCI%20Project%20Part%203%20-%20Conceptual%20%26%20Physical%20Design.pdf) !
+📄Explore more in our [Project Proposal](https://github.com/TOH1004/EATTT/blob/0f377700fe16fb4e1ce6834d67e049b876e74f24/HCI%20Project%20Part%201%20-%20Proposal.pdf) !
