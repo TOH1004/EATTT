@@ -405,4 +405,5 @@ Through user testing and direct observation, we identified several usability imp
 > _“Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs_
 
 <br>
-📄Explore more in our [Project Proposal](https://github.com/TOH1004/EATTT/blob/0f377700fe16fb4e1ce6834d67e049b876e74f24/HCI%20Project%20Part%201%20-%20Proposal.pdf) !
+
+📄 Read more in our [Prototyping & Evaluation](https://github.com/TOH1004/EATTT/blob/fa75c1dcb5f1a4e76c42c2386bf504e8a160d00c/HCI%20Project%20Part%204%20-%20Prototyping%20%26%20Evaluation.pdf) !
